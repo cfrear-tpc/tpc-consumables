@@ -2,7 +2,7 @@
  * Strategy: cache-first for instant offline launch, then re-fetch in the
  * background so the next launch picks up any update automatically.
  * When you post a new version of the app, bump CACHE_VERSION below. */
-const CACHE_VERSION = 'tpc-consumables-v1';
+const CACHE_VERSION = 'tpc-consumables-v2';
 const ASSETS = [
   './',
   './index.html',
