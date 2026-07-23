@@ -1,7 +1,7 @@
 {
-  "name": "TPC Consumables Calculator",
-  "short_name": "TPC Consumables",
-  "description": "Total Power & Controls field crew consumables pricing for TSheets time entries",
+  "name": "TPC",
+  "short_name": "TPC",
+  "description": "Total Power & Controls field crew app — consumables pricing for TSheets time entries",
   "start_url": "./index.html",
   "scope": "./",
   "display": "standalone",
